@@ -22,10 +22,6 @@ include:
   - remote: https://gitlab.com/ci-cd7655047/5/-/raw/main/remote-included-file.yml
 ```
 
-Файл с аналогичным содержанием, что и у Максима, есть в этом репозитории: `remote_included-file.yml`
-
-
-
 Repository Seminar04
 ![repository](img/VirtualBox_cibox_04_12_2023_19_02_47.png "repository")
 
